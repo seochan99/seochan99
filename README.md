@@ -1,3 +1,4 @@
+<div align="center">
 <h1 style="text-align:center"> Hi I'm seochan99 🙋‍♂️</h1>
 
 
@@ -10,3 +11,5 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlcks0513)](https://solved.ac/gmlcks0513)
 
 Notion : https://www.notion.so/About-Me-e11e119ed91c4c75963c65c3e85fbf3e
+
+</div>
