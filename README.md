@@ -7,6 +7,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seochan99&show_icons=true&theme=tokyonight)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={gmlcks0513})](https://solved.ac/{gmlcks0513})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlcks0513)](https://solved.ac/gmlcks0513)
 
 Notion : https://www.notion.so/About-Me-e11e119ed91c4c75963c65c3e85fbf3e
