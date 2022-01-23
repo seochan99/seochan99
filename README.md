@@ -1,6 +1,7 @@
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <div align="center">
 <h1 style="text-align:center"> Hi I'm seochan99 🙋‍♂️</h1>
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 
 ## Front-end Stack 
