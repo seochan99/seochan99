@@ -25,6 +25,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlcks0513)](https://solved.ac/gmlcks0513)  
 
-Notion : https://www.notion.so/About-Me-e11e119ed91c4c75963c65c3e85fbf3e
+Notion : https://bit.ly/seochan
 
 </div>
