@@ -20,13 +20,10 @@
   </div>
 
 ## 🛠️ Tech
-
-### Front-End
-
-React.js, Next.js, Flutter, Swift
-
-### Back-End
-DRF, Express.js
+React.js, Next.js
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
 ## 🌿 Experience
 ### 2023
