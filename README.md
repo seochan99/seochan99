@@ -1,5 +1,5 @@
 
-<div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:99cc99,100:009630&height=200&section=header&text=seochan99&fontSize=90" /></div>
+<div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ccce99,100:7B6FFF&height=200&section=header&text=seochan99&fontSize=90" /></div>
 
 <div align="center">
 <h1 style="text-align:center"> Hi I'm seochan99 🙋‍♂️</h1>I'm developing for our lives 
@@ -43,6 +43,7 @@ https://bit.ly/seochan
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlcks0513)](https://solved.ac/gmlcks0513)  
 
 ## 👋 More or Contact?
+https://bit.ly/seochan
 
 
 </div>
