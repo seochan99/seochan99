@@ -37,11 +37,6 @@
 
 https://bit.ly/seochan
 
-
-## 📚 Algorithm   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmlcks0513)](https://solved.ac/gmlcks0513)  
-
 ## 👋 More or Contact?
 https://bit.ly/seochan
 
