@@ -27,7 +27,7 @@
 - Currently working on **Generative AI**, **fairness**, and **robotics** systems.  
 - I like building products that move from idea → prototype → real users.
 
-More about my work → **[Portfolio](https://portfolio.dcs-seochan99.com)**
+More about my work → [https://www.huichanseo.com/](https://www.huichanseo.com/)
 
 ---
 
