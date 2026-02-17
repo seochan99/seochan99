@@ -16,39 +16,39 @@ I build trustworthy AI systems and ship products from research to production.
 
 ## Current Projects
 
-- 📸 **[MY4CUT](https://my4cut-web.netlify.app)** - Korean photo booth platform for users.
-- ⏱️ **[Habitflow Momentum](https://apps.apple.com/us/app/habitflow-momentum/id6759063885)** - Habit building and routine tracking app.
-- 📶 **[QR WiFi Share](https://apps.apple.com/us/app/qr-wifi-share/id6758590042)** - QR-based Wi-Fi sharing app.
-- 🎙️ **[Voice Transcriber AI](https://apps.apple.com/us/app/voice-transcriber-ai/id6758484418)** - Voice transcription and speech-to-text app.
-- 💧 **[Wottle](https://apps.apple.com/us/app/wottle/id6758646796)** - Water intake tracking app.
-- 🅿️ **[FindMyPark](https://apps.apple.com/us/app/findmypark/id6758561070)** - Parking discovery and sharing app.
-- 🎲 **[Luckforge](https://apps.apple.com/us/app/luckforge/id6758426581)** - Lucky-draw and fortune-style interactive app.
-- 💸 **[US-tax](https://us-tax-lovat.vercel.app)** - Tax and immigration assistance service.
-- 🛫 **[Incheon Airport Congestion](https://inchoen-airport-congestion.vercel.app/)** - Real-time airport congestion tracker.
-- 🗄️ **[Chans App Storage](https://chans-app-storage-seochan99s-projects.vercel.app)** - Workspace for my 100-Apps Project builds and assets.
-- 🧩 **[AutoRepo](https://autorepo.dcs-seochan99.com)** - Repository bootstrap and initial setup automation platform.
-- 💘 **[Sai Dating](https://sai-dating.vercel.app)** - Intro-style matching prototype.
-- 🏅 **[2025 best9](https://2025best9.vercel.app)** - Popularity and ranking aggregation service.
-- 🗺️ **[Naemansan](https://naemansan-client.vercel.app)** - Hiking/travel-oriented web service.
-- 🌍 **[WorldCCUB](https://worldccub.vercel.app)** - Cultural platform for data visualization and analysis.
-- 🤖 **[Frida](https://frida-robot.vercel.app)** - Funding and sponsorship operations dashboard.
-- 👗 **[Robot Fashion Show](https://robotfashion.show)** - Robot Fashion Show.
-- 🏫 **[Dongguk Campus Tour](https://donggamapp.dongguk.edu/)** - Campus tour application service for Dongguk University ambassadors.
+- 📸 **[MY4CUT](https://my4cut-web.netlify.app)** - Online photo booth service for events and communities.
+- ⏱️ **[Habitflow Momentum](https://apps.apple.com/us/app/habitflow-momentum/id6759063885)** - Routine tracker focused on daily consistency.
+- 📶 **[QR WiFi Share](https://apps.apple.com/us/app/qr-wifi-share/id6758590042)** - Share Wi-Fi instantly with a single QR scan.
+- 🎙️ **[Voice Transcriber AI](https://apps.apple.com/us/app/voice-transcriber-ai/id6758484418)** - Turns voice notes and meetings into clean text.
+- 💧 **[Wottle](https://apps.apple.com/us/app/wottle/id6758646796)** - Simple water tracking with reminder nudges.
+- 🅿️ **[FindMyPark](https://apps.apple.com/us/app/findmypark/id6758561070)** - Find nearby parking and share useful spots.
+- 🎲 **[Luckforge](https://apps.apple.com/us/app/luckforge/id6758426581)** - Lightweight luck-based game and fortune app.
+- 💸 **[US-tax](https://us-tax-lovat.vercel.app)** - Tax and visa helper for international users.
+- 🛫 **[Incheon Airport Congestion](https://inchoen-airport-congestion.vercel.app/)** - Check airport crowd levels before leaving home.
+- 🗄️ **[Chans App Storage](https://chans-app-storage-seochan99s-projects.vercel.app)** - Home base for my 100-app build project.
+- 🧩 **[AutoRepo](https://autorepo.dcs-seochan99.com)** - Automates repo setup so new projects start fast.
+- 💘 **[Sai Dating](https://sai-dating.vercel.app)** - Social matching prototype built for quick iteration.
+- 🏅 **[2025 best9](https://2025best9.vercel.app)** - Creates a year-end top-nine summary.
+- 🗺️ **[Naemansan](https://naemansan-client.vercel.app)** - Trail and travel web app for local exploration.
+- 🌍 **[WorldCCUB](https://worldccub.vercel.app)** - Cultural data service for fairness-focused analysis.
+- 🤖 **[Frida](https://frida-robot.vercel.app)** - Operations dashboard for robot project workflows.
+- 👗 **[Robot Fashion Show](https://robotfashion.show)** - Official site for the robot fashion show.
+- 🏫 **[Dongguk Campus Tour](https://donggamapp.dongguk.edu/)** - Booking page for ambassador-led campus tours.
 ## Legacy Work
 
-- 🎫 **[9oormthon QR Reader](https://9uqr.vercel.app)** - QR-based participant operations.
-- 🎃 **[Halloween Candy Billboard](https://halloween-candy-billboard.vercel.app)** - Event-style digital billboard page.
-- 🧑‍💼 **[The Boardroom](https://the-boardroom-pi.vercel.app)** - Team briefing and decision board layer.
-- 🚌 **[Swiping Jeju](https://swiping-jeju-frontend-v2-o3n6-28xgwjimn-seochan99s-projects.vercel.app)** - Regional swipe-style showcase app.
-- 🎓 **[DGU Club Fair](https://2023-dgu-fair.netlify.app/)** - Student organization event website.
-- 🤖 **[DGU Chatbots](https://en.dongguk.edu/)** - University chatbot service project.
-- 👥 **[MOIN](https://moiniom22.netlify.app)** - Community-style group platform experience.
-- 💌 **[Mind Letter](https://mind-letter.netlify.app)** - Anonymous message and sentiment-sharing service.
-- 🧬 **[Developer Type Test](https://with910dgree.netlify.app/)** - Developer type test.
-- 🐘 **[Elephant Test](https://elephanttest.netlify.app)** - Personality test experiment.
-- 🎧 **[DGU Bamboo](https://dgu-bamboo.netlify.app)** - Community/event content page.
-- 🎨 **[Norse Mythologys](https://norse-mythologys.netlify.app)** - Font gallery showcase.
-- 💊 **[Yak-al](https://www.yak-al.com/)** - Pharmacist-reviewed vitamin and supplement comparison platform.
+- 🎫 **[9oormthon QR Reader](https://9uqr.vercel.app)** - QR check-in tool used for event participants.
+- 🎃 **[Halloween Candy Billboard](https://halloween-candy-billboard.vercel.app)** - Seasonal interactive billboard experiment.
+- 🧑‍💼 **[The Boardroom](https://the-boardroom-pi.vercel.app)** - Team briefing and decision workflow prototype.
+- 🚌 **[Swiping Jeju](https://swiping-jeju-frontend-v2-o3n6-28xgwjimn-seochan99s-projects.vercel.app)** - Swipe-based local discovery prototype.
+- 🎓 **[DGU Club Fair](https://2023-dgu-fair.netlify.app/)** - Student club fair information site.
+- 🤖 **[DGU Chatbots](https://en.dongguk.edu/)** - University chatbot project and demo work.
+- 👥 **[MOIN](https://moiniom22.netlify.app)** - Small community platform prototype.
+- 💌 **[Mind Letter](https://mind-letter.netlify.app)** - Anonymous message exchange service.
+- 🧬 **[Developer Type Test](https://with910dgree.netlify.app/)** - Quiz that maps developer personality types.
+- 🐘 **[Elephant Test](https://elephanttest.netlify.app)** - Early personality test project.
+- 🎧 **[DGU Bamboo](https://dgu-bamboo.netlify.app)** - Campus community content platform.
+- 🎨 **[Norse Mythologys](https://norse-mythologys.netlify.app)** - Typeface and visual playground.
+- 💊 **[Yak-al](https://www.yak-al.com/)** - Supplement comparison service with pharmacist-reviewed data.
 
 ## What I'm Doing
 
