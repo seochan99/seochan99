@@ -16,8 +16,7 @@ I build trustworthy AI systems and ship products from research to production.
 
 ## Current Projects
 
-- 📸 **[MY4CUT: Korean Photo Booth](https://apps.apple.com/us/app/my4cut-korean-photo-booth/id6504497435)** - Mobile photo booth capture and sharing app.
-- 📸 **[MY4CUT WEB](https://my4cut-web.netlify.app)** - Korean photo booth platform for users.
+- 📸 **[MY4CUT](https://my4cut-web.netlify.app)** - Korean photo booth platform for users.
 - ⏱️ **[Habitflow Momentum](https://apps.apple.com/us/app/habitflow-momentum/id6759063885)** - Habit building and routine tracking app.
 - 📶 **[QR WiFi Share](https://apps.apple.com/us/app/qr-wifi-share/id6758590042)** - QR-based Wi-Fi sharing app.
 - 🎙️ **[Voice Transcriber AI](https://apps.apple.com/us/app/voice-transcriber-ai/id6758484418)** - Voice transcription and speech-to-text app.
@@ -61,7 +60,7 @@ I build trustworthy AI systems and ship products from research to production.
 ## Recognition
 
 - Research Associate at [Carnegie Mellon University Bot Intelligence Group (CMU BIG)](https://www.ri.cmu.edu/robotics-groups/bot-intelligence-group/).
-- Built and shipped [MY4CUT](https://apps.apple.com/qa/app/my4cut/id6504497435) products used by real users at scale.
+- Built and shipped [MY4CUT](https://my4cut-web.netlify.app) products used by real users at scale.
 - Operating cross-domain services across AI research, mobile apps, and web platforms.
 
 ## Media
